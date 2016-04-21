@@ -2,7 +2,7 @@
 
 ## How to use
 
-Maven
+###Maven
 
 ```
 <dependency>
@@ -13,13 +13,13 @@ Maven
 </dependency>
 ```
 
-Gradle
+###Gradle
 
 ```
 compile 'ca.gcastle:BottomNavigation:1.0.0'
 ```
 
-Ivy
+###Ivy
 
 ```
 <dependency org='ca.gcastle' name='BottomNavigation' rev='1.0.0'>
@@ -27,7 +27,7 @@ Ivy
 </dependency>
 ```
 
-## Default usage
+### XML
 ```
 <ca.gcastle.bottomnavigation.view.BottomNavigationView
             android:id="@+id/bottomBar"
